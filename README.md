@@ -1,5 +1,5 @@
 ![my name image](https://user-images.githubusercontent.com/91422417/137530239-19491bd5-6cb3-455b-9349-4daeae550609.png)
-# **This is my first repository! Here is simple Python programs.** :sunflower:
+# **There are my repositories! Here is simple Python programs.** :sunflower:
 I am a beginner pythonist and a student. In this repository i share with you my first programs on Python.
 (P.S. This is my homework about basics of programming). :wink:
 Here is i try to use my knowledge about Python and create code by determined themes.
