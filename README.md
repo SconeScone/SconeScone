@@ -11,6 +11,7 @@ ____
 #### **Programs become more difficult.** :no_mouth:
 + [лаб.5](https://github.com/SconeScone/Homework/tree/master/лаб.5) - About conditional operator and "def".
 + [лаб.6](https://github.com/SconeScone/Homework/tree/master/лаб.6) - About cycles, modules and files.
++ [лаб.7](https://github.com/SconeScone/Homework/tree/master/лаб.7) - About recursion.
 ##
 + [Other Python programs(2 last)](https://github.com/SconeScone/Homework) - Here is other programs.
 ____
