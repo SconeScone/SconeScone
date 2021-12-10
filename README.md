@@ -12,6 +12,7 @@ ____
 + [лаб.5](https://github.com/SconeScone/Homework/tree/master/лаб.5) - About conditional operator and "def".
 + [лаб.6](https://github.com/SconeScone/Homework/tree/master/лаб.6) - About cycles, modules and files.
 + [лаб.7](https://github.com/SconeScone/Homework/tree/master/лаб.7) - About recursion.
++ [лаб.8](https://github.com/SconeScone/Homework/tree/master/лаб.8) - Different types of sorting methods.
 ##
 + [Other Python programs(2 last)](https://github.com/SconeScone/Homework) - Here is other programs.
 ____
