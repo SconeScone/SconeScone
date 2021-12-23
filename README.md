@@ -12,8 +12,10 @@ ____
 + [лаб.5](https://github.com/SconeScone/Homework/tree/master/лаб.5) - About conditional operator and "def".
 + [лаб.6](https://github.com/SconeScone/Homework/tree/master/лаб.6) - About cycles, modules and files.
 + [лаб.7](https://github.com/SconeScone/Homework/tree/master/лаб.7) - About recursion.
-+ [лаб.8](https://github.com/SconeScone/Homework/tree/master/лаб.8) - Different types of sorting methods.
-##
++ [лаб.8](https://github.com/SconeScone/Homework/tree/master/лаб.8) - Different types of sorting methods
+#### **It's not funny, but interesting.**
++ [:star: лаб.9](https://github.com/SconeScone/Homework/tree/master/lab.9(external%20sort)) - Attempt to do external sorting.
+#### **Just in case.**
 + [Other Python programs(2 last)](https://github.com/SconeScone/Homework) - Here is other programs.
 ____
 ## I will be to commit and push new Python programs in the future and my repo will become bigger. Watch the changes and don't get sick! Good luck! :four_leaf_clover:
