@@ -2,6 +2,7 @@
 # **There are my repositories! Here is simple Python programs.** :mushroom:
 I am a beginner software engineer and a student. Here I will share with you different basic Python programs and in the future other programs in other programming languages.
 (P.S. This is my homework). :wink:
+## If you get lost in the repo 'Homework', push this [link](https://github.com/SconeScone/Homework), there all of programs and :evergreen_tree: READ.ME file. :blossom:
 ____
 ## :full_moon_with_face: **What Python programs are there in this repository?** :new_moon_with_face:
 + [лаб.1](https://github.com/SconeScone/Homework/tree/master/лаб.1) - This is about the standart greeting "Hello, World!" and other basic concepts.
