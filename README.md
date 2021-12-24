@@ -15,7 +15,7 @@ ____
 + [лаб.7](https://github.com/SconeScone/Homework/tree/master/лаб.7) - About recursion.
 + [лаб.8](https://github.com/SconeScone/Homework/tree/master/лаб.8) - Different types of sorting methods
 #### **It's not funny, but interesting (tasks under star).**
-+ [:horse: лаб.7](https://github.com/SconeScone/Homework/tree/master/lab.7(horse's%20move%20chess)) - Task about horse's move.
++ [:horse: лаб.7(horse's moves chess)](https://github.com/SconeScone/Homework/tree/master/lab.7(horse's%20move%20chess)) - Task about horse's move.
 + [:star: лаб.9](https://github.com/SconeScone/Homework/tree/master/lab.9(external%20sort)) - Attempt to do external sorting.
 #### **Just in case.**
 + [Other Python programs(2 last)](https://github.com/SconeScone/Homework) - Here is other programs.
