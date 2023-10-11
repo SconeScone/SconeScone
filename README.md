@@ -1,6 +1,8 @@
 ![my name image](https://user-images.githubusercontent.com/91422417/137530239-19491bd5-6cb3-455b-9349-4daeae550609.png)
 # **I am an aspiring software engineer and a student. Here I will share with you different programs in different programming languages.**
 ____
+## :octocat: **Git** ##
++ [Git basics](https://github.com/SconeScone/web2023susu303) - git commit, checkout, branch, push, pull, fetch and etc.
 ## :full_moon_with_face: **Some simple tasks written in Python** :new_moon_with_face:
 + [лаб.1](https://github.com/SconeScone/Homework/tree/master/лаб.1) - This is about the standart greeting "Hello, World!" and other basic concepts.
 + [лаб.2](https://github.com/SconeScone/Homework/tree/master/лаб.2) - Here is about variables and how can i use them.
